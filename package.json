@@ -1,0 +1,19 @@
+{
+  "name": "yolk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "entrypoint.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrMgpixels/yolk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrMgpixels/yolk/issues"
+  },
+  "homepage": "https://github.com/MrMgpixels/yolk#readme"
+}
