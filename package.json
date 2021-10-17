@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MrMgpixels/yolk/issues"
   },
-  "homepage": "https://github.com/MrMgpixels/yolk#readme"
+  "homepage": "https://github.com/MrMgpixels/yolk#readme",
+  "publishConfig": {
+    "@MrMgpixels:registry": "https://npm.pkg.github.com"
+  }
 }
